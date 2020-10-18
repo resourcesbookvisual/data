@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="sex" attr.type="string" for="node" id="d3" />
+  <key attr.name="region" attr.type="string" for="node" id="d2" />
+  <key attr.name="president" attr.type="string" for="node" id="d1" />
+  <key attr.name="country" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="alferdez">
+      <data key="d0">Argentina</data>
+      <data key="d1">FERNÁNDEZ, Alberto</data>
+      <data key="d2">SouthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="nayibbukele">
+      <data key="d0">El Salvador</data>
+      <data key="d1">BUKELE, Nayib</data>
+      <data key="d2">CentralAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="JustinTrudeau">
+      <data key="d0">Canada</data>
+      <data key="d1">TRUDEAU, Justin</data>
+      <data key="d2">NorthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="JeanineAnez">
+      <data key="d0">Bolivia</data>
+      <data key="d1">ÁÑEZ, Jeanine</data>
+      <data key="d2">SouthAmerica</data>
+      <data key="d3">female</data>
+    </node>
+    <node id="IvanDuque">
+      <data key="d0">Colombia</data>
+      <data key="d1">DUQUE, Iván</data>
+      <data key="d2">SouthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="realDonaldTrump">
+      <data key="d0">United States of America</data>
+      <data key="d1">TRUMP, Donald</data>
+      <data key="d2">NorthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="jairbolsonaro">
+      <data key="d0">Brasil</data>
+      <data key="d1">BOLSONARO, Jair</data>
+      <data key="d2">SouthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="sebastianpinera">
+      <data key="d0">Chile</data>
+      <data key="d1">PIÑERA, Sebastián</data>
+      <data key="d2">SouthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="Lenin">
+      <data key="d0">Ecuador</data>
+      <data key="d1">MORENO, Lenín</data>
+      <data key="d2">SouthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="PresDGranger">
+      <data key="d0">Guyana</data>
+      <data key="d1">GRANGER, David</data>
+      <data key="d2">SouthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="MaritoAbdo">
+      <data key="d0">Paraguay</data>
+      <data key="d1">ABDO BENITEZ, Mario</data>
+      <data key="d2">SouthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="lopezobrador_">
+      <data key="d0">México</data>
+      <data key="d1">LÓPEZ OBRADOR, Andrés Manuel</data>
+      <data key="d2">NorthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="MartinVizcarraC">
+      <data key="d0">Perú</data>
+      <data key="d1">VIZCARRA, Martín</data>
+      <data key="d2">SouthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="LuisLacallePou">
+      <data key="d0">Uruguay</data>
+      <data key="d1">LACALLE POU, Luis</data>
+      <data key="d2">SouthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="CarlosAlvQ">
+      <data key="d0">Costa Rica</data>
+      <data key="d1">ALVARADO, Carlos</data>
+      <data key="d2">CentralAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="DaniloMedina">
+      <data key="d0">República Dominicana</data>
+      <data key="d1">MEDINA, Danilo</data>
+      <data key="d2">Caribe</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="JuanOrlandoH">
+      <data key="d0">Honduras</data>
+      <data key="d1">HERNÁNDEZ, Juan Orlando</data>
+      <data key="d2">CentralAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="miaamormottley">
+      <data key="d0">Barbados</data>
+      <data key="d1">MOTTLEY, Mia</data>
+      <data key="d2">Caribe</data>
+      <data key="d3">female</data>
+    </node>
+    <node id="NitoCortizo">
+      <data key="d0">Panamá</data>
+      <data key="d1">CORTIZO, Laurentino</data>
+      <data key="d2">CentralAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="gastonbrowne">
+      <data key="d0">Antigua y Barbuda</data>
+      <data key="d1">BROWNE, Gaston</data>
+      <data key="d2">Caribe</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="minnis_dr">
+      <data key="d0">Bahamas</data>
+      <data key="d1">MINNIS, Hubert</data>
+      <data key="d2">Caribe</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="moisejovenel">
+      <data key="d0">Haití</data>
+      <data key="d1">MOÏSE, Jovenel</data>
+      <data key="d2">Caribe</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="pmharriskn">
+      <data key="d0">San Cristóbal y Nieves</data>
+      <data key="d1">HARRIS, Timothy</data>
+      <data key="d2">Caribe</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="allenmchastanet">
+      <data key="d0">Santa Lucía</data>
+      <data key="d1">CHASTANET, Allen</data>
+      <data key="d2">Caribe</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="DrKeithRowley">
+      <data key="d0">Trinidad y Tobago</data>
+      <data key="d1">ROWLEY, Keith</data>
+      <data key="d2">Caribe</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="DiazCanelB">
+      <data key="d0">Cuba</data>
+      <data key="d1">DÍAZ-CANEL, Miguel</data>
+      <data key="d2">Caribe</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="AndrewHolnessJM">
+      <data key="d0">Jamaica</data>
+      <data key="d1">HOLNESS, Andrew</data>
+      <data key="d2">Caribe</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="SkerritR">
+      <data key="d0">Dominica</data>
+      <data key="d1">SKERRIT, Roosevelt</data>
+      <data key="d2">Caribe</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="ComradeRalph">
+      <data key="d0">San Vicente y las Granadinas</data>
+      <data key="d1">GONSALVES, Ralph E.</data>
+      <data key="d2">Caribe</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="NicolasMaduro">
+      <data key="d0">Venezuela</data>
+      <data key="d1">MADURO, Nicolás</data>
+      <data key="d2">SouthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="DrGiammattei">
+      <data key="d0">Guatemala</data>
+      <data key="d1">GIAMMATTEI, Alejandro</data>
+      <data key="d2">CentralAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="BarrowDean">
+      <data key="d0">Belice</data>
+      <data key="d1">BARROW, Dean</data>
+      <data key="d2">CentralAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="chansantokhi">
+      <data key="d0">Surinam</data>
+      <data key="d1">SANTOKHI, Chan</data>
+      <data key="d2">SouthAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <node id="DanielOrtegasa">
+      <data key="d0">Nicaragua</data>
+      <data key="d1">ORTEGA, Daniel</data>
+      <data key="d2">CentralAmerica</data>
+      <data key="d3">male</data>
+    </node>
+    <edge source="alferdez" target="nayibbukele" />
+    <edge source="alferdez" target="JustinTrudeau" />
+    <edge source="alferdez" target="MaritoAbdo" />
+    <edge source="alferdez" target="MartinVizcarraC" />
+    <edge source="alferdez" target="lopezobrador_" />
+    <edge source="alferdez" target="CarlosAlvQ" />
+    <edge source="alferdez" target="JuanOrlandoH" />
+    <edge source="alferdez" target="DiazCanelB" />
+    <edge source="nayibbukele" target="CarlosAlvQ" />
+    <edge source="nayibbukele" target="realDonaldTrump" />
+    <edge source="nayibbukele" target="DrGiammattei" />
+    <edge source="nayibbukele" target="NitoCortizo" />
+    <edge source="JustinTrudeau" target="IvanDuque" />
+    <edge source="JustinTrudeau" target="CarlosAlvQ" />
+    <edge source="JustinTrudeau" target="JuanOrlandoH" />
+    <edge source="JustinTrudeau" target="NitoCortizo" />
+    <edge source="JustinTrudeau" target="minnis_dr" />
+    <edge source="JustinTrudeau" target="miaamormottley" />
+    <edge source="JustinTrudeau" target="SkerritR" />
+    <edge source="JustinTrudeau" target="pmharriskn" />
+    <edge source="JustinTrudeau" target="allenmchastanet" />
+    <edge source="JustinTrudeau" target="lopezobrador_" />
+    <edge source="JeanineAnez" target="IvanDuque" />
+    <edge source="JeanineAnez" target="realDonaldTrump" />
+    <edge source="JeanineAnez" target="jairbolsonaro" />
+    <edge source="IvanDuque" target="jairbolsonaro" />
+    <edge source="IvanDuque" target="sebastianpinera" />
+    <edge source="IvanDuque" target="MaritoAbdo" />
+    <edge source="IvanDuque" target="MartinVizcarraC" />
+    <edge source="IvanDuque" target="NitoCortizo" />
+    <edge source="IvanDuque" target="LuisLacallePou" />
+    <edge source="IvanDuque" target="CarlosAlvQ" />
+    <edge source="IvanDuque" target="DrGiammattei" />
+    <edge source="IvanDuque" target="JuanOrlandoH" />
+    <edge source="realDonaldTrump" target="jairbolsonaro" />
+    <edge source="realDonaldTrump" target="PresDGranger" />
+    <edge source="realDonaldTrump" target="MaritoAbdo" />
+    <edge source="realDonaldTrump" target="JuanOrlandoH" />
+    <edge source="realDonaldTrump" target="NitoCortizo" />
+    <edge source="realDonaldTrump" target="gastonbrowne" />
+    <edge source="realDonaldTrump" target="minnis_dr" />
+    <edge source="realDonaldTrump" target="miaamormottley" />
+    <edge source="realDonaldTrump" target="SkerritR" />
+    <edge source="realDonaldTrump" target="ComradeRalph" />
+    <edge source="jairbolsonaro" target="sebastianpinera" />
+    <edge source="jairbolsonaro" target="Lenin" />
+    <edge source="jairbolsonaro" target="MaritoAbdo" />
+    <edge source="jairbolsonaro" target="MartinVizcarraC" />
+    <edge source="jairbolsonaro" target="JuanOrlandoH" />
+    <edge source="jairbolsonaro" target="NitoCortizo" />
+    <edge source="sebastianpinera" target="Lenin" />
+    <edge source="sebastianpinera" target="LuisLacallePou" />
+    <edge source="sebastianpinera" target="MaritoAbdo" />
+    <edge source="sebastianpinera" target="MartinVizcarraC" />
+    <edge source="sebastianpinera" target="CarlosAlvQ" />
+    <edge source="sebastianpinera" target="JuanOrlandoH" />
+    <edge source="sebastianpinera" target="NitoCortizo" />
+    <edge source="Lenin" target="CarlosAlvQ" />
+    <edge source="Lenin" target="NitoCortizo" />
+    <edge source="Lenin" target="MaritoAbdo" />
+    <edge source="Lenin" target="JuanOrlandoH" />
+    <edge source="PresDGranger" target="ComradeRalph" />
+    <edge source="MaritoAbdo" target="lopezobrador_" />
+    <edge source="MaritoAbdo" target="MartinVizcarraC" />
+    <edge source="MaritoAbdo" target="LuisLacallePou" />
+    <edge source="MaritoAbdo" target="CarlosAlvQ" />
+    <edge source="MaritoAbdo" target="JuanOrlandoH" />
+    <edge source="MaritoAbdo" target="NitoCortizo" />
+    <edge source="lopezobrador_" target="MartinVizcarraC" />
+    <edge source="lopezobrador_" target="CarlosAlvQ" />
+    <edge source="lopezobrador_" target="JuanOrlandoH" />
+    <edge source="lopezobrador_" target="NitoCortizo" />
+    <edge source="lopezobrador_" target="DiazCanelB" />
+    <edge source="MartinVizcarraC" target="LuisLacallePou" />
+    <edge source="MartinVizcarraC" target="NitoCortizo" />
+    <edge source="MartinVizcarraC" target="CarlosAlvQ" />
+    <edge source="LuisLacallePou" target="CarlosAlvQ" />
+    <edge source="LuisLacallePou" target="JuanOrlandoH" />
+    <edge source="LuisLacallePou" target="NitoCortizo" />
+    <edge source="CarlosAlvQ" target="DaniloMedina" />
+    <edge source="CarlosAlvQ" target="DrGiammattei" />
+    <edge source="CarlosAlvQ" target="JuanOrlandoH" />
+    <edge source="CarlosAlvQ" target="NitoCortizo" />
+    <edge source="CarlosAlvQ" target="miaamormottley" />
+    <edge source="CarlosAlvQ" target="AndrewHolnessJM" />
+    <edge source="DaniloMedina" target="JuanOrlandoH" />
+    <edge source="DaniloMedina" target="NitoCortizo" />
+    <edge source="JuanOrlandoH" target="miaamormottley" />
+    <edge source="JuanOrlandoH" target="DrGiammattei" />
+    <edge source="JuanOrlandoH" target="NitoCortizo" />
+    <edge source="miaamormottley" target="minnis_dr" />
+    <edge source="miaamormottley" target="DiazCanelB" />
+    <edge source="miaamormottley" target="AndrewHolnessJM" />
+    <edge source="miaamormottley" target="DrKeithRowley" />
+    <edge source="miaamormottley" target="SkerritR" />
+    <edge source="miaamormottley" target="pmharriskn" />
+    <edge source="miaamormottley" target="allenmchastanet" />
+    <edge source="miaamormottley" target="NicolasMaduro" />
+    <edge source="miaamormottley" target="gastonbrowne" />
+    <edge source="miaamormottley" target="ComradeRalph" />
+    <edge source="NitoCortizo" target="DrGiammattei" />
+    <edge source="gastonbrowne" target="SkerritR" />
+    <edge source="gastonbrowne" target="pmharriskn" />
+    <edge source="gastonbrowne" target="ComradeRalph" />
+    <edge source="minnis_dr" target="moisejovenel" />
+    <edge source="minnis_dr" target="pmharriskn" />
+    <edge source="minnis_dr" target="allenmchastanet" />
+    <edge source="minnis_dr" target="DrKeithRowley" />
+    <edge source="minnis_dr" target="AndrewHolnessJM" />
+    <edge source="pmharriskn" target="DrKeithRowley" />
+    <edge source="pmharriskn" target="SkerritR" />
+    <edge source="pmharriskn" target="allenmchastanet" />
+    <edge source="pmharriskn" target="ComradeRalph" />
+    <edge source="pmharriskn" target="AndrewHolnessJM" />
+    <edge source="allenmchastanet" target="SkerritR" />
+    <edge source="allenmchastanet" target="AndrewHolnessJM" />
+    <edge source="allenmchastanet" target="ComradeRalph" />
+    <edge source="DrKeithRowley" target="SkerritR" />
+    <edge source="DiazCanelB" target="NicolasMaduro" />
+    <edge source="AndrewHolnessJM" target="SkerritR" />
+    <edge source="AndrewHolnessJM" target="ComradeRalph" />
+    <edge source="SkerritR" target="NicolasMaduro" />
+    <edge source="SkerritR" target="BarrowDean" />
+    <edge source="SkerritR" target="ComradeRalph" />
+    <edge source="ComradeRalph" target="NicolasMaduro" />
+    <edge source="ComradeRalph" target="BarrowDean" />
+  </graph>
+</graphml>
